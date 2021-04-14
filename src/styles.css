@@ -1,20 +1,51 @@
 body {
-  width: 100%;
   margin: 0;
   padding: 0;
   background: rgb(248, 244, 244);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#Maxx {
-  background: rgba(255, 217, 214, 0.521);
-  margin: 10% 0px;
+.full-height-body-container {
+  padding: 5px;
   width: 100%;
-  padding: 100px 0px 100px 0px;
+  height: 100%;
 }
 
-#Maxx h1 {
-  font-size: 7em;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  color: rgb(255, 102, 85);
+#logo {
+  padding: 5px 15px 5px 15px;
   text-align: center;
+}
+
+#header-list {
+  text-align: center;
+}
+
+header ul {
+  margin: 0 auto;
+  padding: 10px 0px 10px 0px;
+
+}
+header li {
+  display: inline;
+  list-style: none;
+  padding: 0px 10px;
+}
+
+header {
+  padding: 10px 0px;
+  margin-bottom: 20px;
+}
+
+#showcase {
+  text-align: center;
+}
+
+#showcase img {
+  padding: 5px;
+  box-shadow: 5px 5px 8px rgb(196, 196, 196);
+}
+
+footer {
+  text-align: center;
+  font-size: 13px;
 }
