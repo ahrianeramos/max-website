@@ -12,6 +12,7 @@
   text-align: center;
 }
 
+
 header li {
   display: inline;
   list-style: none;
@@ -29,9 +30,31 @@ header a {
   color: rgb(71, 71, 71);
 }
 
-#showcase {
+#showcase-about {
   text-align: center;
-  margin-bottom: 50px;
+  margin-top: 50px;
+  margin: 0 auto;
+}
+
+#showcase-about h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(71, 71, 71);
+  padding: 25px 25px 20px 25px;
+}
+
+#showcase-about p {
+  line-height: 130%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(141, 141, 141);
+  padding: 10px 25px 10px 35px;
+  font-size: 20px;
+}
+
+#default-picture {
+  align-content: center;
+  width: 400px;
+  box-shadow: 9px 9px 15px rgb(172, 172, 172);
+  margin-bottom: 20px;
 }
 
 #showcase img {
@@ -50,3 +73,4 @@ footer {
 footer a {
   color: rgb(124, 124, 124);
 }
+
