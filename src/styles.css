@@ -1,6 +1,5 @@
 body {
-  margin: 0;
-  padding: 0;
+  margin: 0 auto;
   background: rgb(248, 244, 244);
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -38,14 +37,16 @@ header {
 
 #showcase {
   text-align: center;
+  margin-bottom: 30px;
 }
 
 #showcase img {
   padding: 5px;
-  box-shadow: 5px 5px 8px rgb(196, 196, 196);
+  box-shadow: 5px 5px 8px rgb(224, 224, 224);
 }
 
 footer {
   text-align: center;
   font-size: 13px;
+  color: rgb(124, 124, 124);
 }
