@@ -1,10 +1,16 @@
 .container {
   padding: 15px;
   margin: 10px auto;
+  text-align: center;
+}
+
+header {
+  padding: 0px 0px 10px 0px;
+  margin-bottom: 40px;
 }
 
 #logo {
-  padding-bottom: 20px;
+  padding-bottom: 25px;
   text-align: center;
 }
 
@@ -12,16 +18,15 @@
   text-align: center;
 }
 
+header ul {
+  padding: 0px;
+}
+
 header li {
   display: inline;
   list-style: none;
-  padding: 0px 10px;
+  padding: 0px 20px;
   color: rgb(71, 71, 71);
-}
-
-header {
-  padding: 0px 0px 10px 0px;
-  margin-bottom: 40px;
 }
 
 header a {
@@ -31,7 +36,8 @@ header a {
 
 #showcase {
   text-align: center;
-  margin-bottom: 50px;
+  margin-top: 50px;
+  margin: 0 auto;
 }
 
 #showcase img {
@@ -48,5 +54,10 @@ footer {
 }
 
 footer a {
+  color: rgb(124, 124, 124);
+}
+
+.connect {
+  font-size: 25px;
   color: rgb(124, 124, 124);
 }
