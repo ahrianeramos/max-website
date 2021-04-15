@@ -59,6 +59,7 @@ header a {
   width: 350px;
   box-shadow: 9px 9px 15px rgb(172, 172, 172);
   margin-bottom: 20px;
+  border-radius: 8px;
 }
 
 #showcase img {
