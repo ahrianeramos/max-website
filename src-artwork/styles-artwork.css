@@ -1,5 +1,5 @@
 .container {
-  padding: 15px auto;
+  padding: 15px 15px 35px 15px;
   margin: 10px auto;
   text-align: center;
 }
@@ -38,7 +38,6 @@ header a {
   text-align: center;
   margin-top: 50px;
   margin-bottom: 80px;
-  padding: 0px 12px 30px 12px;
 }
 
 #showcase h1 {
@@ -51,6 +50,7 @@ header a {
   padding: 5px;
   box-shadow: 5px 5px 8px rgb(224, 224, 224);
   border-radius: 5px;
+  max-width: 350px;
 }
 
 footer {

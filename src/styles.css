@@ -37,13 +37,12 @@ header a {
 #showcase {
   text-align: center;
   margin-top: 50px;
-  margin: 0 auto;
-  padding: 0px 12px 35px 12px;
 }
 
 #showcase img {
   padding: 5px;
   box-shadow: 5px 5px 8px rgb(224, 224, 224);
+  max-width: 350px;
 }
 
 footer {
