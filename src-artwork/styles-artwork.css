@@ -1,0 +1,63 @@
+.container {
+  padding: 15px auto;
+  margin: 10px auto;
+  text-align: center;
+}
+
+header {
+  padding: 0px 0px 10px 0px;
+  margin-bottom: 40px;
+}
+
+#logo {
+  padding-bottom: 25px;
+  text-align: center;
+}
+
+#header-list {
+  text-align: center;
+}
+
+header ul {
+  padding: 0px;
+}
+
+header li {
+  display: inline;
+  list-style: none;
+  padding: 0px 20px;
+  color: rgb(71, 71, 71);
+}
+
+header a {
+  text-decoration: none;
+  color: rgb(71, 71, 71);
+}
+
+#showcase {
+  text-align: center;
+  margin-top: 50px;
+  margin: 0 auto;
+}
+
+#showcase img {
+  padding: 5px;
+  box-shadow: 5px 5px 8px rgb(224, 224, 224);
+}
+
+footer {
+  text-align: center;
+  font-size: 11px;
+  color: rgb(124, 124, 124);
+  padding: 10px;
+  margin: 20px;
+}
+
+footer a {
+  color: rgb(124, 124, 124);
+}
+
+.connect {
+  font-size: 25px;
+  color: rgb(124, 124, 124);
+}
